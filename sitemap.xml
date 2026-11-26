@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://abdulrahman-aero.github.io/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://abdulrahman-aero.github.io/</loc><xhtml:link rel="alternate" hreflang="en" href="https://abdulrahman-aero.github.io/"/><xhtml:link rel="alternate" hreflang="fr" href="https://abdulrahman-aero.github.io/fr.html"/></url>
+<url><loc>https://abdulrahman-aero.github.io/fr.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://abdulrahman-aero.github.io/"/><xhtml:link rel="alternate" hreflang="fr" href="https://abdulrahman-aero.github.io/fr.html"/></url>
+</urlset>
